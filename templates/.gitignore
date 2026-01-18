@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Data & models
+data/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Environment variables
+.env
+
+# Logs
+*.log
